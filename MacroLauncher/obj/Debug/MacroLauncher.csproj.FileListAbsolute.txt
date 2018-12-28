@@ -1,0 +1,10 @@
+D:\Projekty\MacroLauncher\MacroLauncher\MacroLauncher\bin\Debug\MacroLauncher.exe.config
+D:\Projekty\MacroLauncher\MacroLauncher\MacroLauncher\bin\Debug\MacroLauncher.exe
+D:\Projekty\MacroLauncher\MacroLauncher\MacroLauncher\bin\Debug\MacroLauncher.pdb
+D:\Projekty\MacroLauncher\MacroLauncher\MacroLauncher\obj\Debug\MacroLauncher.csprojAssemblyReference.cache
+D:\Projekty\MacroLauncher\MacroLauncher\MacroLauncher\obj\Debug\MacroLauncher.Form1.resources
+D:\Projekty\MacroLauncher\MacroLauncher\MacroLauncher\obj\Debug\MacroLauncher.Properties.Resources.resources
+D:\Projekty\MacroLauncher\MacroLauncher\MacroLauncher\obj\Debug\MacroLauncher.csproj.GenerateResource.cache
+D:\Projekty\MacroLauncher\MacroLauncher\MacroLauncher\obj\Debug\MacroLauncher.csproj.CoreCompileInputs.cache
+D:\Projekty\MacroLauncher\MacroLauncher\MacroLauncher\obj\Debug\MacroLauncher.exe
+D:\Projekty\MacroLauncher\MacroLauncher\MacroLauncher\obj\Debug\MacroLauncher.pdb
